@@ -11,7 +11,6 @@ This repository contains beginner-friendly JavaScript programs created while lea
 | File Name | Description |
 |-----------|-------------|
 | 📄 `program.html` | Basic JavaScript syntax and simple programs |
-| 📄 `obj.html` | JavaScript Objects and object properties |
 | 📄 `loops.html` | Practice of loops (`for`, `while`, `do-while`) |
 | 📄 `voting.html` | Voting Eligibility Checker using Conditional Statements |
 
@@ -24,7 +23,6 @@ This repository contains beginner-friendly JavaScript programs created while lea
 - ✅ Operators
 - ✅ Conditional Statements (`if`, `else`, `else if`)
 - ✅ Loops
-- ✅ Objects
 - ✅ Console Output
 - ✅ User Input (`prompt()`)
 - ✅ Basic JavaScript Logic
@@ -49,8 +47,7 @@ The goal of this project is to build a strong foundation in JavaScript by practi
 - Introduction to JavaScript
 - Variables
 - Data Types
-- Operators
-- Objects
+- Operator
 - Loops
 - Conditional Statements
 - Simple Logic Building
