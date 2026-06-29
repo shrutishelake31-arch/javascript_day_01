@@ -11,10 +11,9 @@ This repository contains my daily JavaScript practice, examples, and mini projec
 | Day 1 | Variables | ✅ |
 | Day 2 | Operators | ✅ |
 | Day 3 | if-else | ✅ |
-| Day 4 | Voting Eligibility | ✅ |
-| Day 5 | Loops | ✅ |
-| Day 6 | Objects | ✅ |
-| Day 7 | Coming Soon | ⏳ |
+| Day 4 | Loops | ✅ |
+| Day 5 | Objects | ✅ |
+| Day 6 | Coming Soon | ⏳ |
 
 ---
 
