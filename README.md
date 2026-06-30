@@ -13,7 +13,8 @@ This repository contains my daily JavaScript practice, examples, and mini projec
 | Day 3 | if-else | ✅ |
 | Day 4 | Loops | ✅ |
 | Day 5 | Objects | ✅ |
-| Day 6 | Coming Soon | ⏳ |
+| Day 6 | Functions | ✅ |
+| Day 7 | Coming Soon | ⏳ |
 
 ---
 
@@ -27,6 +28,7 @@ javascript-learning/
 ├── voting.html(if-else)
 ├── loops.html
 ├── obj.html
+├── functions.html
 └── README.md
 ```
 
