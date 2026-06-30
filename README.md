@@ -22,12 +22,12 @@ This repository contains my daily JavaScript practice, examples, and mini projec
 
 javascript-learning/
 │
-├── variables.html
-├── program.html(operators)
-├── voting.html(if-else)
-├── loops.html
-├── obj.html
-├── functions.html
+├── 01-variables.html
+├── 02-operators.html
+├── 03-if-else.html
+├── 04-loops.html
+├── 05-objects.html
+├── 06-functions.html
 └── README.md
 ```
 
